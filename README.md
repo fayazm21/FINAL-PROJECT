@@ -11,7 +11,7 @@ The dataset includes numerous news articles with labels indicating whether they'
 - Visual C++: [Download](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
 - Required Python Libraries: pip install numpy Pillow Keras tensorflow Flask Werkzeug gunicorn
 
-'''
+```
 WELFAKE-Fake-News-Detection
 ├ models
 │  ├ train.csv
@@ -19,7 +19,7 @@ WELFAKE-Fake-News-Detection
 ├ test data
 ├ templates
 └ upload.csv
-'''
+```
 
 ## How to Run the Project
 1. **Setup Environment**: Install Python and necessary libraries (details in the repository).
