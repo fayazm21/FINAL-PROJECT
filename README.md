@@ -10,8 +10,9 @@ The dataset includes numerous news articles with labels indicating whether they'
 - Python 3.8 (64-bit)
 - Visual C++: [Download](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
 - Required Python Libraries: pip install numpy Pillow Keras tensorflow Flask Werkzeug gunicorn
+
 '''
-  WELFAKE-Fake-News-Detection
+WELFAKE-Fake-News-Detection
 ├── models
 │   ├── train.csv
 │   └── train.ipynb
