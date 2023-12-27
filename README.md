@@ -13,12 +13,12 @@ The dataset includes numerous news articles with labels indicating whether they'
 
 '''
 WELFAKE-Fake-News-Detection
-├── models
-│   ├── train.csv
-│   └── train.ipynb
-├── test data
-├── templates
-└── upload.csv
+├ models
+│  ├ train.csv
+│  └ train.ipynb
+├ test data
+├ templates
+└ upload.csv
 '''
 
 ## How to Run the Project
