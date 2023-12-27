@@ -32,6 +32,13 @@ For a comprehensive understanding of the project, methodology, and results, refe
 
 ## Snapshots and Demonstrations
 Snapshots of the project's results and interface are included for a quick overview of the project's capabilities.
+![snap1](results/img1.png)
+![snap2](results/img2.png)
+![snap3](results/img3.png)
+![snap4](results/img4.png)
+![snap5](results/img5.png)
+![snap6](results/img6.png)
+
 
 
 
