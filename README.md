@@ -4,7 +4,21 @@
 WELFAKE leverages word embeddings and linguistic features to accurately detect fake news. The project uses various machine learning techniques and a novel approach to classify news articles as real or fake.
 
 ## Data and Resources
-The dataset includes numerous news articles with labels indicating whether they're real or fake. Links to access the data and necessary resources are provided in the README.
+The dataset includes numerous news articles with labels indicating whether they're real or fake. Data and necessary resources are provided in the Repo.
+
+## Requirements
+- Python 3.8 (64-bit)
+- Visual C++: [Download](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
+- Required Python Libraries: pip install numpy Pillow Keras tensorflow Flask Werkzeug gunicorn
+
+  WELFAKE-Fake-News-Detection
+├── models
+│   ├── train.csv
+│   └── train.ipynb
+├── test data
+├── templates
+└── upload.csv
+
 
 ## How to Run the Project
 1. **Setup Environment**: Install Python and necessary libraries (details in the repository).
@@ -18,7 +32,6 @@ For a comprehensive understanding of the project, methodology, and results, refe
 ## Snapshots and Demonstrations
 Snapshots of the project's results and interface are included for a quick overview of the project's capabilities.
 
-## Contribution
-Contributions, suggestions, and discussions are welcome. Please refer to the Issues section for current topics or to propose new ideas.
+
 
 
